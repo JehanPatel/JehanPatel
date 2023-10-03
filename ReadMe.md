@@ -1,3 +1,5 @@
+[![An image of @jehanpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jehanpatel)](https://holopin.io/@jehanpatel)
+
 # 💫About Me :
 Hello there!
 I am Jehan Patel, an engineering student also working with different brands. I am proficient in Python and Canva. My studies have helped me gain proficiency in various academic topics. Having worked in the field of Artificial Intelligence and Machine Learning, I have developed knowledge in the field. Alongside this, I have developed soft skills while delivering events and catering to large audiences. I am also passionate about working with brands and companies to cater with their needs. Having worked with 10+ brands, I believe that I am suitable for various kinds of roles.
