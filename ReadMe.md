@@ -45,11 +45,11 @@ Passionate about building scalable automation solutions, optimizing workflows, a
 ## 📊 GitHub Stats
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jehan-patel&show_icons=true&theme=tokyonight)
 ```
 
 ```md
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jehan-patel&layout=compact&theme=tokyonight)
 ```
 
 ---
