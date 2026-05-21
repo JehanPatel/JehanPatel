@@ -44,7 +44,7 @@ Passionate about building scalable automation solutions, optimizing workflows, a
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanPatl&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanPatel&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanPatel&layout=compact&theme=tokyonight)
 
